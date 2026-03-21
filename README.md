@@ -3,7 +3,7 @@ Hi 👋 My name is Mohammad Imran
 
 Full-Stack Developer | 9+ years
 ---------------------------------------------
-Frontend: React, TypeScript, HTML, CSS 
+Frontend: React, TypeScript, HTML, CSS                                                                      
 Backend: Node.js, Nest js, Express, REST APIs (DB: MongoDB/PostgreSQL)
 
 * 🌍  I'm based in Dehli
