@@ -1,10 +1,10 @@
 Hi 👋 My name is Mohammad Imran
 ===============================
 
-Front-End Web Developer/Engineer,UI Developer
+Full-Stack Developer | 9+ years
 ---------------------------------------------
-
-Front-end developer with interaction design skills.
+Frontend: React, TypeScript, HTML, CSS 
+Backend: Node.js, Nest js, Express, REST APIs (DB: MongoDB/PostgreSQL)
 
 * 🌍  I'm based in Dehli
 * ✉️  You can contact me at [shaikhmiran@gmail.com](mailto:shaikhmiran@gmail.com)
